@@ -1,1 +1,1 @@
-# ES6/JavaScript
+# JavaScript
